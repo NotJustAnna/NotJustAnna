@@ -30,9 +30,11 @@ I write about all of the above (and whatever I'm currently breaking) at
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [Containers, The Wrong Way, For Always-Free Fun and Profit](https://notjustanna.net/post/containers-the-wrong-way-for-always-free-fun-and-profit/)
+- [Containers, The Wrong Way: Lessons Learnt](https://notjustanna.net/post/containers-the-wrong-way-lessons-learnt/)
 - [I Accidentally Invented a Search Term](https://notjustanna.net/post/i-accidentally-invented-a-search-term/)
-- [Self-Hosting Everything, Including the Single Point of Failure](https://notjustanna.net/post/self-hosting-everything-including-the-single-point-of-failure/)
-- [I Run Nomad on my Gaming PC (It's Great)](https://notjustanna.net/post/i-run-nomad-on-my-gaming-pc-its-great/)
+- [I Run Nomad on my Gaming PC (It&apos;s Great)](https://notjustanna.net/post/i-run-nomad-on-my-gaming-pc-its-great/)
+- [Infisical is Great, Actually](https://notjustanna.net/post/infisical-is-great-actually/)
 <!-- BLOG:END -->
 
 ---
