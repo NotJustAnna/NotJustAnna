@@ -30,11 +30,11 @@ I write about all of the above (and whatever I'm currently breaking) at
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [The Laptop That Refused to Retire](https://notjustanna.net/post/the-laptop-that-refused-to-retire/)
 - [Design Constraints as Art: Maximizing Your AWS Free Tier](https://notjustanna.net/post/design-constraints-as-art/)
 - [LLMs got Autism from the Internet](https://notjustanna.net/post/llms-got-autism-from-the-internet/)
 - [I Accidentally Invented a Search Term](https://notjustanna.net/post/i-accidentally-invented-a-search-term/)
 - [Infisical is Great, Actually](https://notjustanna.net/post/infisical-is-great-actually/)
-- [Self-Hosting Everything, Including the Single Point of Failure](https://notjustanna.net/post/self-hosting-everything-including-the-single-point-of-failure/)
 <!-- BLOG:END -->
 
 ---
