@@ -1,4 +1,4 @@
-### Hi, I'm Anna. She/her.
+### Hi, I'm Anna. she/her.
 
 I build software for a living and infrastructure for fun, which means I
 have strong opinions about dependency graphs and a homelab that is one
@@ -6,18 +6,17 @@ have strong opinions about dependency graphs and a homelab that is one
 
 I've written a compiler. And a parser library. And a VM for the language
 the compiler compiles to. In my third semester of college. For fun.
-I've since written the same Static Reflections library twice — once with
-ByteBuddy and once with KSP — because the first time wasn't interesting
-enough. I also built a Lua scripting layer that makes an entire platform
-load from a single executable, which is exactly as unhinged as it sounds
-and I love it.
+I've once reverse engineered a mechanical keyboard I bought, just because I
+wanted to remap a key to Print Screen without Fn. I also developed a
+not-framework for JS because I dislike monorepos that much, which is
+exactly as unhinged as it sounds and I love it.
 
 I've worked with at least 126 different technologies. I know because I
-counted.
+counted. (You can check my website for that)
 
 I once self-hosted the tool I needed to recover my cluster *on the cluster
-I was recovering*. I documented it publicly, on purpose, because apparently
-I have no shame and also it was a really good blog post.
+I was recovering*. I documented it publicly, on purpose, because shame is
+optional when it can turn into a really good blog post.
 
 **Things I'll talk your ear off about:**
 compilers and parsers · Kotlin · TypeScript · containers done wrong ·
