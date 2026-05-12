@@ -29,11 +29,11 @@ I write about all of the above (and whatever I'm currently breaking) at
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [I&apos;ve accidentally built a not-a-framework. It&apos;s called SeamStack.](https://notjustanna.net/post/seamstack/)
 - [On leaving GitHub, conditionally](https://notjustanna.net/post/on-leaving-github/)
 - [Astro is Great, Actually](https://notjustanna.net/post/astro-is-great-actually/)
 - [The Laptop That Refused to Retire](https://notjustanna.net/post/the-laptop-that-refused-to-retire/)
 - [Design Constraints as Art: Maximizing Your AWS Free Tier](https://notjustanna.net/post/design-constraints-as-art/)
-- [LLMs got Autism from the Internet](https://notjustanna.net/post/llms-got-autism-from-the-internet/)
 <!-- BLOG:END -->
 
 ---
