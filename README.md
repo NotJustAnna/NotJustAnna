@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [Writing software for my keyboard](https://notjustanna.net/post/writing-software-for-my-keyboard/)
 - [Microsoft Was Right. They Were Just Fifteen Years Early.](https://notjustanna.net/post/microsoft-was-right/)
 - [I&apos;m forcing myself to buy a new router and I&apos;m not happy about it.](https://notjustanna.net/post/forcing-myself-to-buy-a-router/)
 - [LTT Somehow Predicted my Peripherals](https://notjustanna.net/post/ltt-somehow-predicted-my-peripherals/)
 - [I&apos;ve accidentally built a not-a-framework. It&apos;s called SeamStack.](https://notjustanna.net/post/seamstack/)
-- [On leaving GitHub, conditionally](https://notjustanna.net/post/on-leaving-github/)
 <!-- BLOG:END -->
 
 ---
