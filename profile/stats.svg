@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Anna Silva's GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 37, Total Commits  : 1390, Total PRs: 140, Total Issues: 172, Contributed to (last year): 9</desc>
+        <desc id="descId">Total Stars Earned: 37, Total Commits  : 1400, Total PRs: 141, Total Issues: 172, Contributed to (last year): 9</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 93.24752579986433;
+        stroke-dashoffset: 93.01291695171027;
       }
     }
   
@@ -146,7 +146,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          37.1%
+          37.0%
         </text>
       
         </g>
@@ -195,7 +195,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >140</text>
+      >141</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
