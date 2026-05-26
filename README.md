@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [I do not recommend Cloudflare anymore.](https://notjustanna.net/post/i-do-not-recommend-cloudflare-anymore/)
 - [Claude Sonnet Has a Coach Now](https://notjustanna.net/post/claude-sonnet-has-a-coach-now/)
 - [Writing software for my keyboard](https://notjustanna.net/post/writing-software-for-my-keyboard/)
 - [Microsoft Was Right. They Were Just Fifteen Years Early.](https://notjustanna.net/post/microsoft-was-right/)
 - [I&apos;m forcing myself to buy a new router and I&apos;m not happy about it.](https://notjustanna.net/post/forcing-myself-to-buy-a-router/)
-- [LTT Somehow Predicted my Peripherals](https://notjustanna.net/post/ltt-somehow-predicted-my-peripherals/)
 <!-- BLOG:END -->
 
 ---
