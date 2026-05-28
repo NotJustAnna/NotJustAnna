@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [SQL Is Fine. The Problem Is That We Kept It.](https://notjustanna.net/post/sql-is-not-fine/)
 - [Fond Memories of Hamachi](https://notjustanna.net/post/fond-memories-of-hamachi/)
 - [I do not recommend Cloudflare anymore.](https://notjustanna.net/post/i-do-not-recommend-cloudflare-anymore/)
 - [Claude Sonnet Has a Coach Now](https://notjustanna.net/post/claude-sonnet-has-a-coach-now/)
 - [Writing software for my keyboard](https://notjustanna.net/post/writing-software-for-my-keyboard/)
-- [Microsoft Was Right. They Were Just Fifteen Years Early.](https://notjustanna.net/post/microsoft-was-right/)
 <!-- BLOG:END -->
 
 ---
