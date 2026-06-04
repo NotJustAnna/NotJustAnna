@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [Your best engineer is your worst engineer](https://notjustanna.net/post/your-best-engineer-is-your-worst-engineer/)
 - [Just Install Micro](https://notjustanna.net/post/just-install-micro/)
 - [You should pay for your Android launcher](https://notjustanna.net/post/you-should-pay-for-your-launcher/)
 - [SQL Is Fine. The Problem Is That We Kept It.](https://notjustanna.net/post/sql-is-not-fine/)
 - [Fond Memories of Hamachi](https://notjustanna.net/post/fond-memories-of-hamachi/)
-- [I do not recommend Cloudflare anymore.](https://notjustanna.net/post/i-do-not-recommend-cloudflare-anymore/)
 <!-- BLOG:END -->
 
 ---
