@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [It Was, In Fact, Oracle&apos;s Problem](https://notjustanna.net/post/it-was-in-fact-oracles-problem/)
+- [On trusting Bluesky, with asterisks](https://notjustanna.net/post/on-bluesky-with-asterisks/)
 - [That Time I Found a Bug in the JDK](https://notjustanna.net/post/that-time-i-found-a-bug-in-the-jdk/)
 - [Your best engineer is your worst engineer](https://notjustanna.net/post/your-best-engineer-is-your-worst-engineer/)
 - [Just Install Micro](https://notjustanna.net/post/just-install-micro/)
-- [You should pay for your Android launcher](https://notjustanna.net/post/you-should-pay-for-your-launcher/)
-- [SQL Is Fine. The Problem Is That We Kept It.](https://notjustanna.net/post/sql-is-not-fine/)
 <!-- BLOG:END -->
 
 ---
