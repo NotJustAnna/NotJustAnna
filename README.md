@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [Oh God, AI&apos;s Tech Support Now](https://notjustanna.net/post/artificial-tech-support/)
 - [IPv6 Fixes Everything On Purpose](https://notjustanna.net/post/ipv6-fixes-everything-on-purpose/)
 - [I just wanted the autocomplete.](https://notjustanna.net/post/i-just-wanted-the-autocomplete/)
 - [It Was, In Fact, Oracle&apos;s Problem](https://notjustanna.net/post/it-was-in-fact-oracles-problem/)
 - [On trusting Bluesky, with asterisks](https://notjustanna.net/post/on-bluesky-with-asterisks/)
-- [That Time I Found a Bug in the JDK](https://notjustanna.net/post/that-time-i-found-a-bug-in-the-jdk/)
 <!-- BLOG:END -->
 
 ---
