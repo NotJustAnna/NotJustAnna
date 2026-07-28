@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [I Nearly Reverse-PABX&apos;d My Condo&apos;s Intercom](https://notjustanna.net/post/i-nearly-reverse-pabxd-my-condos-intercom/)
 - [Oh Fuck, Tangled Is Public-Only](https://notjustanna.net/post/oh-fuck-tangled-is-public-only/)
 - [Every Port I Loved is now called USB-C](https://notjustanna.net/post/every-port-i-loved-is-now-called-usb-c/)
 - [Oh Fuck, Tailscale&apos;s Venture Capital](https://notjustanna.net/post/oh-fuck-tailscale-vc/)
 - [Oh God, AI&apos;s Tech Support Now](https://notjustanna.net/post/artificial-tech-support/)
-- [IPv6 Fixes Everything On Purpose](https://notjustanna.net/post/ipv6-fixes-everything-on-purpose/)
 <!-- BLOG:END -->
 
 ---
