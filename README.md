@@ -4,25 +4,25 @@ I build software for a living and infrastructure for fun, which means I
 have strong opinions about dependency graphs and a homelab that is one
 `terraform apply` away from a very educational afternoon.
 
-[I run Nomad on my main PC](https://notjustanna.net/post/i-run-nomad-on-my-gaming-pc-its-great/).
-[I run K3s the wrong way on purpose](https://notjustanna.net/post/containers-the-wrong-way-for-always-free-fun-and-profit/).
-[I treat the AWS free tier as a design constraint](https://notjustanna.net/post/design-constraints-as-art/), which is more fun than
-it sounds. I have, at least once, [self-hosted the tool I needed to
-recover my cluster *on the cluster I was recovering*](https://notjustanna.net/post/self-hosting-everything-including-the-single-point-of-failure/), and then written
-about it on purpose, because shame is optional when it can turn into a
-really good blog post.
-
-Most recently I've been reverse-engineering a keyboard at the firmware
-level because I wanted to remap a key without holding Fn, and
-[I've accidentally built a not-a-framework for JS](https://notjustanna.net/post/seamstack/) because I dislike monorepos
-that much. Both of these are exactly as unhinged as they sound.
+Lately that has meant
+[reverse-engineering a keyboard's firmware](https://notjustanna.net/post/writing-software-for-my-keyboard/)
+(25,000 lines of 8051 assembly) because I wanted to remap a key without
+holding Fn, and then shipping [a web tool](https://sfphantom.notjustanna.net) so nobody else has to.
+Before that, [I accidentally built a not-a-framework for JS](https://notjustanna.net/post/seamstack/)
+because I dislike monorepos that much. Both are exactly as unhinged as they sound.
 
 Before all of this I wrote [a compiler](https://github.com/NotJustAnna/Lin), [a parser library](https://github.com/NotJustAnna/tartar), and [a VM for
 the language the compiler compiles to](https://github.com/NotJustAnna/leanvm). In my third semester of uni. For fun.
 I mention it because it explains a lot.
 
-**Things I'll talk your ear off about:** self-hosting · containers, preferably done wrong · why your
-orchestrator doesn't need more than one node · Kotlin and TypeScript · coffee
+I have opinions about [what a container image actually is](https://notjustanna.net/post/container-images-are-operating-systems/),
+[why SQL survived every attempt to replace it](https://notjustanna.net/post/sql-is-not-fine/), and
+[how far the AWS free tier can carry a real SaaS](https://notjustanna.net/post/design-constraints-as-art/).
+My homelab is K3s in a container on a free-tier ARM box, run by ArgoCD, under one rule:
+if it's not in the repo, it doesn't exist.
+
+**Things I'll talk your ear off about:** reverse engineering · self-hosting · containers and what they
+really are · Kotlin and TypeScript · why your orchestrator doesn't need more than one node · coffee
 
 I write about all of the above (and whatever I'm currently breaking)
 at **[notjustanna.net](https://notjustanna.net)**.
