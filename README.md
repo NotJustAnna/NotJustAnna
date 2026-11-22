@@ -31,11 +31,11 @@ at **[notjustanna.net](https://notjustanna.net)**.
 
 <!-- BLOG:START -->
 <!-- updated automatically — don't touch -->
+- [My laptop can&apos;t tell its lid is closed. It&apos;s a server now.](https://notjustanna.net/post/my-laptop-is-a-server-now/)
+- [The Skylake i3 Paradox](https://notjustanna.net/post/the-skylake-i3-paradox/)
 - [I Built a Discord AI Assistant.](https://notjustanna.net/post/i-built-a-discord-ai-assistant/)
 - [I&apos;m half giving up on Kubernetes. But only half.](https://notjustanna.net/post/half-giving-up-on-k8s/)
 - [Discs Are Tarballs Now](https://notjustanna.net/post/discs-are-tarballs-now/)
-- [The Internet Fits In Two Terabytes Now.](https://notjustanna.net/post/the-internet-fits-in-two-terabytes/)
-- [Valve is a shitty company. We allow Valve to stay shitty.](https://notjustanna.net/post/valve-is-a-shitty-company/)
 <!-- BLOG:END -->
 
 ---
